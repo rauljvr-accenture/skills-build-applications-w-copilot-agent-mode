@@ -1,5 +1,5 @@
 ---
-agent: 'agent'
+mode: 'agent'
 model: GPT-4.1
 description: 'Setup, configure, and populate the octofit_db database with test data for the Octofit Tracker Django app.'
 ---
